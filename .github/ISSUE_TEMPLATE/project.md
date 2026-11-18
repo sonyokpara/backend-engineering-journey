@@ -8,6 +8,5 @@ labels: project
 **Phase:** 
 
 ### Definition of done
-- [ ] 
 - [ ] README written (what it does, how to run it, what I learned)
 - [ ] Committed and pushed
